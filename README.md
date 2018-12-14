@@ -1,1 +1,2 @@
-# Java-Project-school-
+School subject - Java TeamProject
+Computer parts POS
